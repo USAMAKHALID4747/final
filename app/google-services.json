@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639380031605",
+    "project_id": "feelplay-5b20c",
+    "storage_bucket": "feelplay-5b20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639380031605:android:72d5045d59bd0d2abb903c",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639380031605-gcn97dgll12o6tsrofn51qfobu46iab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOuPT2wRAGtb5PVpzDPbDtfaz2rS8Lrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639380031605-gcn97dgll12o6tsrofn51qfobu46iab2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
